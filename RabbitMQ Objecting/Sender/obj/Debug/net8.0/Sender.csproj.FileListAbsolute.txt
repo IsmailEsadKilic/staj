@@ -1,0 +1,17 @@
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\Sender.exe
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\Sender.deps.json
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\Sender.runtimeconfig.json
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\Sender.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\Sender.pdb
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.csproj.Up2Date
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\refint\Sender.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.pdb
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\Sender.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ Objecting\Sender\obj\Debug\net8.0\ref\Sender.dll

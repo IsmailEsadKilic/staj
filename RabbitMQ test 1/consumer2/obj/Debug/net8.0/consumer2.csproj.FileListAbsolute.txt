@@ -1,0 +1,17 @@
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\consumer2.exe
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\consumer2.deps.json
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\consumer2.runtimeconfig.json
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\consumer2.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\consumer2.pdb
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.csproj.Up2Date
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\refint\consumer2.dll
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.pdb
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\consumer2.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\staj\RabbitMQ test 1\consumer2\obj\Debug\net8.0\ref\consumer2.dll
